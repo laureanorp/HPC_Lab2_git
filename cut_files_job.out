@@ -1,0 +1,21 @@
+Running cut_files_head.sh using parallel
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Cutting ./Sample2.fastq
+Finished
+Cutting ./Sample4.fastq
+Finished
+Cutting ./Sample3.fastq
+Finished
+Cutting ./Sample1.fastq
+Finished
+
+real	0m0,138s
+user	0m0,131s
+sys	0m0,071s
